@@ -1,0 +1,54 @@
+a.nubex {
+	color: #fff;
+	user-select: none; /* Убираем текстовое выделение */
+	text-decoration: none;	/* Убираем подчеркивание */
+	outline: none; /* Убираем контур вокруг ссылки */
+	background-color: gray; /* Цвет фона */
+	padding: 1em 2em; /* Отступ от текста до рамки */
+	margin-left: auto;
+    margin-right: auto;
+    width: 6em;
+	}
+	a.nubex:active {
+	background-color: #ee6206; /* Цвет кнопки при нажатии */
+	}
+	a.nubex:hover {
+	background-color: #f97f2e; /* Цвет кнопки при наведении курсора */
+	} 
+	
+	body  {
+		background-color:  #708090;
+}
+
+img {
+ display: block; 
+margin: 0 auto;
+ }
+h1 {
+	color: black;
+	}
+	h2 {
+		align: center;
+		}
+		aue {
+			color: black;
+			outline: none;
+			text-decoration: none;
+			padding: 1em 2em;
+			margin-left: auto; 
+			margin-right: auto;
+			 width: 6em;
+			}
+			a {
+				margin-left: auto; 
+				margin-right: auto;
+				 width: 6em;
+				
+				
+				}
+				
+				loop {
+					
+					display: block;
+					margin: 0 auto;
+					}
